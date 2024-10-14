@@ -25,5 +25,6 @@ public class InverteString {
 
         System.out.println("Sua palavra/frase: " + entradaPalavra);
         System.out.println("Invertido: " + invertido);
+        teclado.close();
     }
 }
